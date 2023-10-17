@@ -1,7 +1,5 @@
 # Connect5 Game AI (Pygame)
 
-![Connect5 Game AI](link-to-your-image.png)
-
 **Connect5 Game AI** is a Five-in-a-Row (Gomoku) game implemented in Python with Pygame. It allows players to engage in strategic battles against an AI opponent. Five-in-a-Row, also known as Gomoku or Connect Five, is a two-player abstract strategy board game. The objective is to be the first to form a continuous line of five own pieces, either horizontally, vertically, or diagonally on a 10x10 board.
 
 ## Key Features
